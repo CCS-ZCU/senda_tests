@@ -12,3 +12,7 @@ matplotlib
 seaborn
 
 sddk
+
+# Additional dependencies discovered from notebooks
+requests
+pyreadstat
